@@ -33,7 +33,6 @@ public class NewMonoBehaviourScript : MonoBehaviour
             if(hit.transform.gameObject.layer == 5)
             {
                 Debug.Log("Detecta caja");
-
             }
             
         }
